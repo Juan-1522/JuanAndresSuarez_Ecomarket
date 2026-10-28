@@ -259,6 +259,13 @@
   min-width: 0;
 }
 
+.banner {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .portada {
   position: relative;
   display: grid;
